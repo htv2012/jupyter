@@ -1,0 +1,6 @@
+anytree
+jupyterlab
+networkx
+pyyaml
+requests
+
