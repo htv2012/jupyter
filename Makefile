@@ -1,4 +1,3 @@
 run:
-	uv run jupyter lab --notebook-dir=notebooks 
-
+	uv run jupyter lab --notebook-dir=notebooks --no-browser
 
