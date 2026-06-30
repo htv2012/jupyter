@@ -6,7 +6,12 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "anytree>=2.12.1",
+<<<<<<< Updated upstream
     "drawtree>=0.1.2",
+||||||| Stash base
+=======
+    "ipython>=9.4.0",
+>>>>>>> Stashed changes
     "jupyterlab[all]>=4.3.5",
     "matplotlib>=3.11.0",
     "networkx>=3.4.2",
