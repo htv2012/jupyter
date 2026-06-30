@@ -11,4 +11,4 @@ b:
 	uv run bpython
 
 pt:
-	uv run ptpython
+	uv run ptpython --config-file config.py
