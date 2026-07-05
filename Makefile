@@ -3,6 +3,7 @@ help:
 	@echo make py
 	@echo make b
 	@echo make pt
+	@echo make commit
 
 lab:
 	uv run jupyter lab --notebook-dir=notebooks --no-browser
