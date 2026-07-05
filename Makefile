@@ -20,5 +20,6 @@ commit:
 	git stash
 	git pull
 	git stash pop
-	git commit -am "auto commit"
+	git add .
+	git commit -m "auto commit"
 	git push
