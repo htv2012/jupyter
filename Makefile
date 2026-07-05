@@ -16,3 +16,9 @@ b:
 pt:
 	uv run ptpython --config-file config.py
 
+commit:
+	git stash
+	git pull
+	git stash pop
+	git commit -am "auto commit"
+	git push
