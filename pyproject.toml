@@ -9,6 +9,7 @@ dependencies = [
     "bpython>=0.26",
     "drawtree>=0.1.2",
     "fabric>=3.2.3",
+    "igraph>=1.0.0",
     "invoke>=2.2.1",
     "ipython>=9.4.0",
     "jupyterlab>=4.3.5",
