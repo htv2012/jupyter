@@ -24,4 +24,5 @@ dependencies = [
     "pygraphviz>=2.0",
     "pyyaml>=6.0.2",
     "requests>=2.32.3",
+    "yt-dlp>=2026.8.19",
 ]
