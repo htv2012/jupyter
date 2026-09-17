@@ -190,7 +190,8 @@ def verify_binary_search_tree(root: Optional[TreeNode]) -> bool:
     next(right)
     for prev, cur in zip(left, right):
         if prev >= cur:
-            logger.info("Tree is not a valid BST due to these values: %r and %r", prev, cur)
+            logger.info(
+                "Tree is not a valid BST due to these values: %r and %r", prev, cur
+            )
             return False
     return True
-
